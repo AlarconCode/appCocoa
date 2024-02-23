@@ -1,49 +1,29 @@
 ﻿[
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-        "desc": "Café + Tostada con queso y tomate",
-=======
         "id": "1",
         "cat": "Desayunos Básicos",
         "desc": "Café o Cola Cao + Tostada o croissant",
->>>>>>> 5ecbcb8 (modificado data.json)
         "ingredientes": "",
         "price": "3.00 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-        "desc": "Café + Tostada de salmón + Guacamole o queso",
-=======
         "id": "2",
         "cat": "Desayunos Básicos",
         "desc": "Café o Cola Cao + Pincho de tortilla",
->>>>>>> 5ecbcb8 (modificado data.json)
         "ingredientes": "",
         "price": "4.00 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-        "desc": "Café + Tostada de Jamón ibérico",
-=======
         "id": "3",
         "cat": "Desayunos Básicos",
         "desc": "Café o Cola Cao + Tostada + Zumo",
->>>>>>> 5ecbcb8 (modificado data.json)
         "ingredientes": "",
         "price": "5.00 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-        "desc": "Café + Zumo o refresco + Tostada de jamón, salmón o queso",
-=======
         "id": "4",
         "cat": "Desayunos Básicos",
         "desc": "Zumo + Pincho de tortilla",
->>>>>>> 5ecbcb8 (modificado data.json)
         "ingredientes": "",
         "price": "4.50 €"
     },
@@ -55,103 +35,50 @@
         "price": "3.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-        "desc": "Capuccino + Zumo + Tostada",
-=======
         "id": "6",
         "cat": "Desayunos Básicos",
         "desc": "Té Orígenes + Tostada",
->>>>>>> 5ecbcb8 (modificado data.json)
         "ingredientes": "",
         "price": "3.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-        "desc": "Capuccino + Tostada de jamón, salmón o queso",
-        "ingredientes": "",
-        "price": "5.00 €"
-    },
-    {
-        "cat": "Desayunos",
-        "desc": "Capuccino  + Zumo o refresco + Tostada de jamón, salmón o queso",
-        "ingredientes": "",
-        "price": "6.50 €"
-    },
-    {
-        "cat": "Desayunos",
-        "desc": "Botellín + Pincho de tortilla",
-        "ingredientes": "",
-        "price": "3.80 €"
-    },
-    {
-        "cat": "Desayunos",
-        "desc": "Botellín + Tostada de jamón, salmón o queso",
-        "ingredientes": "",
-        "price": "4.20 €"
-    },
-    {
-        "cat": "Desayunos",
-=======
         "id": "7",
         "cat": "Desayunos Completos",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café + Tostada con queso y tomate",
         "ingredientes": "",
         "price": "4.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-=======
         "id": "8",
         "cat": "Desayunos Completos",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café + Tostada de salmón + Guacamole o queso",
         "ingredientes": "",
         "price": "4.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-=======
         "id": "9",
         "cat": "Desayunos Completos",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café + Tostada de Jamón ibérico",
         "ingredientes": "",
         "price": "4.20 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-=======
         "id": "10",
         "cat": "Desayunos Completos",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café + Zumo o refresco + Tostada de jamón, salmón o queso",
         "ingredientes": "",
         "price": "6.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-=======
         "id": "11",
         "cat": "Desayunos Completos",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café capuccino + Tostada",
         "ingredientes": "",
         "price": "4.00 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-=======
         "id": "12",
         "cat": "Desayunos Completos",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Capuccino + Zumo + Tostada",
         "ingredientes": "",
         "price": "6.00 €"
@@ -178,10 +105,6 @@
         "price": "5.00 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-        "desc": "Capuccino + Tostada de jamón, salmón o queso",
-=======
         "id": "16",
         "cat": "Desayunos Completos",
         "desc": "Botellín + Pincho de tortilla",
@@ -192,189 +115,110 @@
         "id": "17",
         "cat": "Desayunos Completos",
         "desc": "Botellín + Tostada de jamón, salmón o queso",
->>>>>>> 5ecbcb8 (modificado data.json)
         "ingredientes": "",
         "price": "4.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "Desayunos",
-        "desc": "Capuccino  + Zumo o refresco + Tostada de jamón, salmón o queso",
-        "ingredientes": "",
-        "price": "6.50 €"
-    },
-    {
-        "cat": "Desayunos",
-        "desc": "Botellín + Pincho de tortilla",
-        "ingredientes": "",
-        "price": "3.80 €"
-    },
-    {
-        "cat": "Desayunos",
-        "desc": "Botellín + Tostada de jamón, salmón o queso",
-        "ingredientes": "",
-        "price": "4.20 €"
-    },
-    {
-        "cat": "cafes",
-=======
         "id": "18",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café Cocoa",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "19",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café Americano",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "20",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café con leche",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "21",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café cortado",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "22",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café solo",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "23",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Capuccino",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "24",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café descafeinado",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "25",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café Bombón",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "26",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Café Irlandés",
         "ingredientes": "",
         "price": "5.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "27",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Manzanilla, Poleo y Té",
         "ingredientes": "",
         "price": "1.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "28",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Chocolate",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "29",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Chocolate negro con nata",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "30",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Carajillo",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "31",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Cola Cao",
         "ingredientes": "",
         "price": "1.70 €"
     },
     {
-<<<<<<< HEAD
-        "cat": "cafes",
-=======
         "id": "32",
         "cat": "Cafés",
->>>>>>> 5ecbcb8 (modificado data.json)
         "desc": "Zumo",
         "ingredientes": "",
         "price": "2.50 €"
