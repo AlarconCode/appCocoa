@@ -22,4 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 .env
+=======
+.env
+>>>>>>> 5ecbcb8 (modificado data.json)
