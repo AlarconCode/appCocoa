@@ -1,579 +1,491 @@
-﻿[
+[
     {
         "id": "1",
         "cat": "Desayunos Básicos",
-        "desc": "Café o Cola Cao + Tostada o croissant",
-        "ingredientes": "",
-        "price": "3.00 €"
-    },
-    {
-        "id": "2",
-        "cat": "Desayunos Básicos",
-        "desc": "Café o Cola Cao + Pincho de tortilla",
+        "desc": "Café + Tostada con queso y tomate",
         "ingredientes": "",
         "price": "4.00 €"
     },
     {
-        "id": "3",
+        "id": "2",
         "cat": "Desayunos Básicos",
-        "desc": "Café o Cola Cao + Tostada + Zumo",
-        "ingredientes": "",
-        "price": "5.00 €"
-    },
-    {
-        "id": "4",
-        "cat": "Desayunos Básicos",
-        "desc": "Zumo + Pincho de tortilla",
-        "ingredientes": "",
-        "price": "4.50 €"
-    },
-    {
-        "id": "5",
-        "cat": "Desayunos Básicos",
-        "desc": "Zumo + Tostada o croissant",
-        "ingredientes": "",
-        "price": "3.50 €"
-    },
-    {
-        "id": "6",
-        "cat": "Desayunos Básicos",
-        "desc": "Té Orígenes + Tostada",
-        "ingredientes": "",
-        "price": "3.50 €"
-    },
-    {
-        "id": "7",
-        "cat": "Desayunos Completos",
-        "desc": "Café + Tostada con queso y tomate",
-        "ingredientes": "",
-        "price": "4.50 €"
-    },
-    {
-        "id": "8",
-        "cat": "Desayunos Completos",
         "desc": "Café + Tostada de salmón + Guacamole o queso",
         "ingredientes": "",
         "price": "4.50 €"
     },
     {
-        "id": "9",
-        "cat": "Desayunos Completos",
+        "id": "3",
+        "cat": "Desayunos Básicos",
         "desc": "Café + Tostada de Jamón ibérico",
         "ingredientes": "",
-        "price": "4.20 €"
+        "price": "4.00 €"
     },
     {
-        "id": "10",
-        "cat": "Desayunos Completos",
+        "id": "4",
+        "cat": "Desayunos Básicos",
         "desc": "Café + Zumo o refresco + Tostada de jamón, salmón o queso",
+        "ingredientes": "",
+        "price": "6.00 €"
+    },
+    {
+        "id": "6",
+        "cat": "Desayunos Básicos",
+        "desc": "Capuccino + Zumo + Tostada",
+        "ingredientes": "",
+        "price": "5.00 €"
+    },
+    {
+        "id": "7",
+        "cat": "Desayunos Básicos",
+        "desc": "Capuccino + Tostada de jamón, salmón o queso",
+        "ingredientes": "",
+        "price": "5.00 €"
+    },
+    {
+        "id": "8",
+        "cat": "Desayunos Básicos",
+        "desc": "Capuccino  + Zumo o refresco + Tostada de jamón, salmón o queso",
         "ingredientes": "",
         "price": "6.50 €"
     },
     {
+        "id": "9",
+        "cat": "Desayunos Básicos",
+        "desc": "Botellín + Pincho de tortilla",
+        "ingredientes": "",
+        "price": "3.80 €"
+    },
+    {
+        "id": "10",
+        "cat": "Desayunos Básicos",
+        "desc": "Botellín + Tostada de jamón, salmón o queso",
+        "ingredientes": "",
+        "price": "4.20 €"
+    },
+    {
         "id": "11",
         "cat": "Desayunos Completos",
-        "desc": "Café capuccino + Tostada",
+        "desc": "Café + Tostada con queso y tomate",
         "ingredientes": "",
         "price": "4.00 €"
     },
     {
         "id": "12",
         "cat": "Desayunos Completos",
-        "desc": "Capuccino + Zumo + Tostada",
-        "ingredientes": "",
-        "price": "6.00 €"
-    },
-    {
-        "id": "13",
-        "cat": "Desayunos Completos",
-        "desc": "Capuccino + Tostada de jamón, salmón o queso",
-        "ingredientes": "",
-        "price": "6.00 €"
-    },
-    {
-        "id": "14",
-        "cat": "Desayunos Completos",
-        "desc": "Capuccino + Zumo o refresco + Tostada de jamón, salmón o queso",
-        "ingredientes": "",
-        "price": "7.00 €"
-    },
-    {
-        "id": "15",
-        "cat": "Desayunos Completos",
-        "desc": "Zumo + Tostada de Salmón, jamón o queso",
-        "ingredientes": "",
-        "price": "5.00 €"
-    },
-    {
-        "id": "16",
-        "cat": "Desayunos Completos",
-        "desc": "Botellín + Pincho de tortilla",
-        "ingredientes": "",
-        "price": "4.00 €"
-    },
-    {
-        "id": "17",
-        "cat": "Desayunos Completos",
-        "desc": "Botellín + Tostada de jamón, salmón o queso",
+        "desc": "Café + Tostada de salmón + Guacamole o queso",
         "ingredientes": "",
         "price": "4.50 €"
     },
     {
+        "id": "13",
+        "cat": "Desayunos Completos",
+        "desc": "Café + Tostada de Jamón ibérico",
+        "ingredientes": "",
+        "price": "4.00 €"
+    },
+    {
+        "id": "14",
+        "cat": "Desayunos Completos",
+        "desc": "Café + Zumo o refresco + Tostada de jamón, salmón o queso",
+        "ingredientes": "",
+        "price": "6.00 €"
+    },
+    {
+        "id": "15",
+        "cat": "Desayunos Completos",
+        "desc": "Café capuccino + Tostada",
+        "ingredientes": "",
+        "price": "4.00 €"
+    },
+    {
+        "id": "16",
+        "cat": "Desayunos Completos",
+        "desc": "Capuccino + Zumo + Tostada",
+        "ingredientes": "",
+        "price": "5.00 €"
+    },
+    {
+        "id": "17",
+        "cat": "Desayunos Completos",
+        "desc": "Capuccino + Tostada de jamón, salmón o queso",
+        "ingredientes": "",
+        "price": "5.00 €"
+    },
+    {
         "id": "18",
-        "cat": "Cafés",
+        "cat": "Desayunos Completos",
+        "desc": "Capuccino  + Zumo o refresco + Tostada de jamón, salmón o queso",
+        "ingredientes": "",
+        "price": "6.50 €"
+    },
+    {
+        "id": "19",
+        "cat": "Desayunos Completos",
+        "desc": "Botellín + Pincho de tortilla",
+        "ingredientes": "",
+        "price": "3.80 €"
+    },
+    {
+        "id": "20",
+        "cat": "Desayunos Completos",
+        "desc": "Botellín + Tostada de jamón, salmón o queso",
+        "ingredientes": "",
+        "price": "4.20 €"
+    },
+    {
+        "id": "21",
+        "cat": "Café 100% Arábigo",
         "desc": "Café Cocoa",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-        "id": "19",
-        "cat": "Cafés",
+        "id": "22",
+        "cat": "Café 100% Arábigo",
         "desc": "Café Americano",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-        "id": "20",
-        "cat": "Cafés",
+        "id": "23",
+        "cat": "Café 100% Arábigo",
         "desc": "Café con leche",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-        "id": "21",
-        "cat": "Cafés",
+        "id": "24",
+        "cat": "Café 100% Arábigo",
         "desc": "Café cortado",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-        "id": "22",
-        "cat": "Cafés",
+        "id": "25",
+        "cat": "Café 100% Arábigo",
         "desc": "Café solo",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-        "id": "23",
-        "cat": "Cafés",
+        "id": "26",
+        "cat": "Café 100% Arábigo",
         "desc": "Capuccino",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-        "id": "24",
-        "cat": "Cafés",
+        "id": "27",
+        "cat": "Café 100% Arábigo",
         "desc": "Café descafeinado",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-        "id": "25",
-        "cat": "Cafés",
+        "id": "28",
+        "cat": "Café 100% Arábigo",
         "desc": "Café Bombón",
         "ingredientes": "",
-        "price": "2.00 €"
+        "price": "1.70 €"
     },
     {
-        "id": "26",
-        "cat": "Cafés",
+        "id": "29",
+        "cat": "Café 100% Arábigo",
         "desc": "Café Irlandés",
         "ingredientes": "",
         "price": "5.50 €"
     },
     {
-        "id": "27",
-        "cat": "Cafés",
+        "id": "30",
+        "cat": "Café 100% Arábigo",
         "desc": "Manzanilla, Poleo y Té",
         "ingredientes": "",
         "price": "1.50 €"
     },
     {
-        "id": "28",
-        "cat": "Cafés",
+        "id": "31",
+        "cat": "Café 100% Arábigo",
         "desc": "Chocolate",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-        "id": "29",
-        "cat": "Cafés",
+        "id": "32",
+        "cat": "Café 100% Arábigo",
         "desc": "Chocolate negro con nata",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-        "id": "30",
-        "cat": "Cafés",
+        "id": "33",
+        "cat": "Café 100% Arábigo",
         "desc": "Carajillo",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-        "id": "31",
-        "cat": "Cafés",
+        "id": "34",
+        "cat": "Café 100% Arábigo",
         "desc": "Cola Cao",
         "ingredientes": "",
-        "price": "1.70 €"
+        "price": "1.60 €"
     },
     {
-        "id": "32",
-        "cat": "Cafés",
+        "id": "35",
+        "cat": "Café 100% Arábigo",
         "desc": "Zumo",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "33",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "36",
         "cat": "Repostería Casera",
         "desc": "Rosquillas",
         "ingredientes": "",
         "price": "0.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "34",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "37",
         "cat": "Repostería Casera",
         "desc": "Bizcocho de limón o naranja",
         "ingredientes": "(Huevos, azúcar, harina de trigo, yogur de limón, levadura, limón rayado)",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "35",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "38",
         "cat": "Repostería Casera",
         "desc": "Bizcocho de nocilla con soja",
         "ingredientes": "",
         "price": "3.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "36",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "39",
         "cat": "Repostería Casera",
         "desc": "Tarta de queso",
         "ingredientes": "(Huevos, leche condensada y queso)",
         "price": "3.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "37",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "40",
         "cat": "Comidas",
         "desc": "Croissant mixto",
         "ingredientes": "",
         "price": "3.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "38",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "41",
         "cat": "Comidas",
         "desc": "Croissant con queso manchego y tomate",
         "ingredientes": "",
         "price": "4.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "39",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "42",
         "cat": "Comidas",
         "desc": "Croissant con salmón y guacamole",
         "ingredientes": "",
         "price": "4.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "40",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "43",
         "cat": "Comidas",
         "desc": "Croissant con jamón y tomate",
         "ingredientes": "",
         "price": "4.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "41",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "44",
         "cat": "Comidas",
         "desc": "Sandwich mixto",
         "ingredientes": "",
         "price": "3.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "42",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "45",
         "cat": "Comidas",
         "desc": "Bocadillos",
         "ingredientes": "",
         "price": "5.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "43",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "46",
         "cat": "Comidas",
         "desc": "Montados",
         "ingredientes": "",
         "price": "3.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "44",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "47",
         "cat": "Comidas",
         "desc": "Pulgas",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "45",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "48",
         "cat": "Comidas",
         "desc": "Pincho de tortilla",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "46",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "49",
         "cat": "Comidas",
         "desc": "Tostada de pan",
         "ingredientes": "",
         "price": "1.80 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "47",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "50",
         "cat": "Comidas",
         "desc": "Tostada de bimbo",
         "ingredientes": "",
         "price": "1.60 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "48",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "51",
         "cat": "Comidas",
         "desc": "Croissant",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "49",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "52",
         "cat": "Comidas",
         "desc": "Churro o Porra",
         "ingredientes": "",
         "price": "0.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "50",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "53",
         "cat": "Comidas",
         "desc": "Bollería",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "51",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "54",
         "cat": "Comidas",
-        "desc": "Bizcocho entero",
+        "desc": "Bizcocho entero, tamaño pequeño",
         "ingredientes": "",
-        "price": "16.00 €"
+        "price": "12.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "52",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "55",
         "cat": "Comidas",
-        "desc": "Tortilla (por encargo)",
+        "desc": "Bizcocho entero, tamaño grande",
         "ingredientes": "",
-        "price": "16.00 €"
+        "price": "15.00 €"
     },
     {
-<<<<<<< HEAD
+        "id": "56",
         "cat": "Comidas",
         "desc": "Tortilla completa (por encargo)",
         "ingredientes": "",
         "price": "15.00 €"
     },
     {
-=======
-        "id": "53",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "57",
         "cat": "Comidas",
         "desc": "Pan",
         "ingredientes": "",
         "price": "1.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "54",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "58",
         "cat": "Bebidas",
         "desc": "Botellín",
         "ingredientes": "",
-        "price": "1.90 €"
+        "price": "1.70 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "55",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "59",
         "cat": "Bebidas",
         "desc": "Tercio",
         "ingredientes": "",
         "price": "3.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "56",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "60",
         "cat": "Bebidas",
         "desc": "Refrescos",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "57",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "61",
         "cat": "Bebidas",
         "desc": "Agua con gas",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "58",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "62",
         "cat": "Bebidas",
         "desc": "Botella de agua",
         "ingredientes": "",
         "price": "1.30 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "59",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "63",
         "cat": "Bebidas",
         "desc": "Batido de Chocolate",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "60",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "64",
         "cat": "Bebidas",
         "desc": "Vino Blanco",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "61",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "65",
         "cat": "Bebidas",
         "desc": "Vino Tinto",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "62",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "66",
         "cat": "Bebidas",
         "desc": "Copa de anís o soberano",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "63",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "67",
         "cat": "Bebidas",
         "desc": "Copa Licor de Hierbas / Limonchelo",
         "ingredientes": "",
         "price": "2.50 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "64",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "68",
         "cat": "Bebidas",
         "desc": "Chupito Licor de Hierbas / Limonchelo",
         "ingredientes": "",
         "price": "2.00 €"
     },
     {
-<<<<<<< HEAD
-=======
-        "id": "65",
->>>>>>> 5ecbcb8 (modificado data.json)
+        "id": "69",
         "cat": "Bebidas",
-        "desc": "Combinado",
+        "desc": "Copa Nacional",
         "ingredientes": "",
-        "price": "6.00 €"
+        "price": "5.00 €"
     },
     {
-<<<<<<< HEAD
+        "id": "70",
         "cat": "Bebidas",
         "desc": "Copa Importación",
         "ingredientes": "",
         "price": "5.50 €"
     },
     {
+        "id": "71",
         "cat": "Bebidas",
         "desc": "Copa Premium",
-=======
-        "id": "66",
-        "cat": "Bebidas",
-        "desc": "Combinado Premium",
->>>>>>> 5ecbcb8 (modificado data.json)
         "ingredientes": "",
         "price": "7.00 €"
     }

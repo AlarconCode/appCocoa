@@ -2,14 +2,8 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  text-decoration: none;
 }
 
-body {
-  margin: 0;
-  min-width: 320px;
-  min-height: 100vh;
-}
 
 /* header start */
 
@@ -21,10 +15,10 @@ header {
   left: 0;
   background-color: var(--primary);
   display: flex;
+  justify-content: space-between;
   align-items: center;
   padding: 2rem;
-  border-bottom: 4px solid var(--third);
-  z-index: 10;
+  border-bottom: 4px solid var(--secondary);
 }
 
 .logotipo {
@@ -51,18 +45,6 @@ header {
   font-size: 2.5rem;
   color: var(--secondary);
   padding-top: 1rem;
-  margin-left: 1rem;
-}
-
-.link-loginLogout_container {
-  padding-top: .8rem;
-  margin-left: auto;
-}
-
-.link-loginLogout {
-  text-decoration: none;
-  font-size: 1.5rem;
-  color: var(--secondary);
 }
 
 /* header end */
@@ -87,27 +69,11 @@ header {
 }
 
 .menu-item {
-  display: block; 
   cursor: pointer;
   font-size: 1.3rem;
   font-weight: 600;
   line-height: 3rem;
-  transition: font-weight 500ms ease-out;
-  margin-bottom: .8rem;
-  line-height: 2rem;
-}
-
-.menu-item::after {
-  content: '';
-  display: block;
-  border-bottom: 1px solid var(--primary);
-  transform: scale(0);
-  transform-origin: 0 50%;
-  transition: transform 500ms ease-out;
-}
-
-.menu-item:hover::after {
-  transform: scale(1);
+  transition: font-weight 500ms ease-out;  
 }
 
 .menu-item:link, .menu-item:visited {
@@ -117,6 +83,7 @@ header {
 
 .menu-item:active, .menu-item:hover {
   font-weight: 300;
+  border-bottom: 1px solid var(--primary);
 }
 
 .openMenu {
@@ -134,7 +101,7 @@ header {
 
 /* main start */
 
-.container-product {
+main {
   font-family: 'Lato', sans-serif;
   background-color: var(--third);
   width: 100vw;
@@ -142,84 +109,24 @@ header {
   color: var(--primary);
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  padding: 80px 2rem 100px 2rem ;
+  padding: 0 2rem 2rem ;
   gap: 2rem;
-  overflow: hidden;
 }
 
-.header-title {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 1em;
+main h1 {
+  font-size: 1.5rem;
   font-weight: 700;
-  margin-top: 1rem;
 }
 
-.header-title i {
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  font-size: 1.3rem;
-  column-gap: 1rem;
-}
-
-
-.card {
-  width: 100%;
-  min-height: 150px;
-  position: relative;
-  perspective: 1000px;
-  transform-style: preserve-3d;
-}
-
-.front {
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-}
-
-.back {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  right: 0;
-  backface-visibility: hidden;
-  transition: transform 0.6s;
-}
-
-.card .back {
-  transform: rotateY(180deg);
-}
-
-.card.flipped .front {
-  transform: rotateY(180deg);
-}
-
-.logoCocoa {
-  opacity: .5;
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-}
-
-.card.flipped .back {
-  transform: rotateY(360deg);
-}
-
-.card-product {
+.product-container {
   background-color: var(--secondary);
   border: 4px dotted var(--primary);
   border-radius: 1rem;
-  padding: 0;
+  padding: 1.3rem;
+  min-height: 50px;
 }
 
-.description-product {
-  padding: 1rem;
-}
-
-.description-product h3 {
+.desc {
   text-align: left;
   font-weight: 500;
   font-size: 1.3rem;
@@ -231,216 +138,35 @@ header {
   text-align: right;
 }
 
-.back {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.space {
+  width: 100%;
+  height: 55px;
 }
 
-.img-product {
-  width: 100%;
-  height: 100%;
-  border-radius: 1rem;
-  object-fit: cover;
+.up {
+  z-index: 9;
+  position: fixed;
+  top: 80vh;
+  left: 5vw;
+  width: 30px;
+  height: 30px;
+  background-color: var(--primary);
+  font-size: 1.2rem;
+  color: var(--secondary);
+  border-radius: 100%;
+  text-align: center;
+  padding: 3px;
+  box-shadow: 0px 0px 4px 4px rgba(3,3,3,.1);
+  transition: all 500ms ease-in-out;
+}
+
+.up:hover {
+  background-color: var(--secondary);
+  color: var(--primary);
 }
 
 /* main end */
 
 /* #################################### */
 
-/* main login */
 
-.icons-container {
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  height: 48px;
-  background-color: var(--primary);
-  border-bottom-right-radius: 1rem;
-  border-bottom-left-radius: 1rem;
-  padding: 1.3rem;
-  font-size: 1.3rem;
-}
-
-.image-product-icon {
-  margin-left: auto;
-}
-
-.show {
-  display: flex;
-}
-
-.hide {
-  display: none;
-}
-
-/* main login  END*/
-
-/* CSS Forms Register and Product #######START##### */
-
-span {
-  color: rgba(185, 0, 0, 0.832);
-  font-size: 0.8rem;
-
-}
-
-.titleRegisterForm {
-  font-weight: 300;
-  color: var(--primary);
-  text-align: center;
-  margin-bottom: 15px;
-}
-
-form {
-  background-color: var(--secondary);
-  width: 100vw;
-  height: 100vh;
-  display: grid;
-  place-content: center;
-}
-
-.form-control {
-  width: 75vw;
-  max-width: 300px;
-  margin-bottom: 1rem;
-}
-
-.form-control label {
-  display: block;
-  color: var(--primary);
-  margin-bottom: 5px;
-}
-
-input, select {
-  display: block;
-  width: 100%;
-  height: 2rem;
-  border: none;
-  border-radius: 4px;
-  padding-left: 10px;
-}
-
-.buttonForm {
-  height: 2.5rem;
-  border: none;
-  font-size: 1.3rem;
-  font-weight: 600;
-  color: var(--secondary);
-  background-color: var(--primary);
-  cursor: pointer;
-  text-transform: uppercase;
-  margin-bottom: 1rem;
-}
-
-.errorMessage {
-  background-color: rgba(185, 0, 0, 0.832);
-  color: var(--third);
-  padding: .5rem;
-  margin-bottom: 1rem;
-}
-
-.inputfile {
-  width: 0.1px;
-  height: 0.1px;
-  opacity: 0;
-  overflow: hidden;
-  position: absolute;
-  z-index: -1;
-}
-
-.inputfile + .labelFileInput {
-  width: 100%;
-  font-size: 1.5rem;
-  font-weight: 700;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  cursor: pointer;
-  display: inline-block;
-  overflow: hidden;
-  padding: 0.625rem 1.25rem;
-}
-
-.inputfile-2 + .labelFileInput {
-  color: var(--primary);
-  border: 2px solid var(--primary);
-}
-
-.inputfile-2:focus + .labelFileInput,
-.inputfile-2.has-focus + .labelFileInput,
-.inputfile-2 + .labelFileInput:hover {
-  color: var(--primary);
-}
-
-/* CSS Forms Register and Product #######END##### */
-
-
-/* HomePage START */
-
-.homepage-container {
-  width: 100vw;
-  min-height: 100vh;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-template-rows: repeat(auto-fill, minmax(200px, 1fr));
-  background-color: var(--third);
-  padding: 100px 2rem 100px 2rem ;
-  gap: 1rem;
-}
-
-.homepage-link {
-  text-decoration: none;
-  cursor: pointer;
-  color: var(--primary);
-  padding: 1rem;
-  text-align: center;
-  min-height: 100%;
-}
-
-
-/* HomePage END */
-
-
-/* Footer START */
-
-footer {
-  width: 100vw;
-  height: 80px;
-  border-top: 4px solid var(--third);
-  background-color: var(--secondary);
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  font-size: 3rem;
-  color: var(--primary);
-  position: fixed;
-  bottom: 0;
-}
-
-img {
-  height: 70%;
-  cursor: pointer;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  vertical-align: baseline;
-  width: auto;
-}
-
-footer button {
-  background-color: transparent;
-  border: none;
-  color: var(--primary);
-  display: inline-flex;
-  cursor: pointer;
-  font-size: 3rem;
-  text-decoration: none;
-  transition: all 250ms;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  vertical-align: baseline;
-  width: auto;
-
-}
-
-/* Footer END */
