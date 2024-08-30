@@ -1,12 +1,12 @@
 import Main from "../../Components/Main/Main";
 import data from '../../data/data.json'
 
-function Desayunos () {
+function Tostas () {
   return (
     <>
-    <Main data={data} category='Desayunos' />
+    <Main data={data} category={data[17].cat} />
     </>
   )
 }
 
-export default Desayunos
+export default Tostas

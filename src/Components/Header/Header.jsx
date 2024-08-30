@@ -21,10 +21,10 @@ function Header () {
       <div className='iconMenu' onClick={handleToggle}>{iconMenu}</div>
       <div className= { isOpen ? 'menu-items-container openMenu' : 'menu-items-container closeMenu'}>
         <ul className='list-items'>
-            <li onClick={toggleFalse}><a href='#Desayunos Básicos' className='menu-item'>Desayunos Básicos</a></li>
-            <li onClick={toggleFalse}><a href='#Desayunos Completos' className='menu-item'>Desayunos Completos</a></li>
-            <li onClick={toggleFalse}><a href='#Café 100% Arábigo' className='menu-item'>Cafés</a></li>
-            <li onClick={toggleFalse}><a href='#Repostería Casera' className='menu-item'>Repostería</a></li>
+            <li onClick={toggleFalse}><a href='#Desayunos' className='menu-item'>Desayunos</a></li>
+            <li onClick={toggleFalse}><a href='#Tostas' className='menu-item'>Tostas</a></li>
+            <li onClick={toggleFalse}><a href='#Cafes' className='menu-item'>Cafés</a></li>
+            <li onClick={toggleFalse}><a href='#Reposteria' className='menu-item'>Repostería</a></li>
             <li onClick={toggleFalse}><a href='#Comidas' className='menu-item'>Comidas</a></li>
             <li onClick={toggleFalse}><a href='#Bebidas' className='menu-item'>Bebidas</a></li>
         </ul>

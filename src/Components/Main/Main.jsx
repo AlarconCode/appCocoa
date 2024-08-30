@@ -1,14 +1,22 @@
+/* eslint-disable react/prop-types */
 
 import { FaArrowUp } from "react-icons/fa6";
 
+// eslint-disable-next-line react/prop-types
 function Main ({data, category}) {
   
   return (
     <main>
       <div id={category} className="space"></div>
-      <h1>{category}</h1>
+      <h1>{
+        
+        category === 'Cafes' ? 'Café 100% Arábigo' : 
+        category === 'Resposteria' ? 'Repostería' : 
+        category
+                    
+        }</h1>
 
-      {data.map((product, index) => (
+      {data.map((product) => (
         category === product.cat ? 
         <div key={product.id} className='product-container'>
           <h3 className='desc'>{product.desc}</h3>
@@ -17,7 +25,7 @@ function Main ({data, category}) {
         </div> :
         null
       ))}
-      <a href="#Desayunos Básicos"><div className='up'><FaArrowUp /></div></a>
+      <a href="#Desayunos"><div className='up'><FaArrowUp /></div></a>
 
     </main>
   )

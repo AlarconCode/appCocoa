@@ -70,9 +70,9 @@ header {
 
 .menu-item {
   cursor: pointer;
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: 600;
-  line-height: 3rem;
+  line-height: 2.2rem;
   transition: font-weight 500ms ease-out;  
 }
 
@@ -114,7 +114,7 @@ main {
 }
 
 main h1 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 700;
 }
 
@@ -129,12 +129,12 @@ main h1 {
 .desc {
   text-align: left;
   font-weight: 500;
-  font-size: 1.3rem;
+  font-size: 1rem;
 }
 
 .price {
   margin-top: 1rem;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   text-align: right;
 }
 
@@ -170,3 +170,6 @@ main h1 {
 /* #################################### */
 
 
+.cafeTime {
+  padding: 30px;
+}
