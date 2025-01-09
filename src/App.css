@@ -130,6 +130,7 @@ main h1 {
   text-align: left;
   font-weight: 500;
   font-size: 1rem;
+  font-weight: bold;
 }
 
 .price {
@@ -163,6 +164,11 @@ main h1 {
 .up:hover {
   background-color: var(--secondary);
   color: var(--primary);
+}
+
+.ingredientes {
+  font-size: 18px;
+  font-style: italic;
 }
 
 /* main end */
