@@ -4,7 +4,7 @@ import data from '../../data/data.json'
 function Reposteria () {
   return (
     <>
-    <Main data={data} category={data[35].cat} />
+    <Main data={data} category={data[31].cat} />
     </>
   )
 }
