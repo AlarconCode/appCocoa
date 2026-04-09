@@ -4,7 +4,7 @@ import data from '../../data/data.json'
 function Bebidas () {
   return (
     <>
-    <Main data={data} category={data[56].cat} />
+    <Main data={data} category="Bebidas" />
     </>
   )
 }

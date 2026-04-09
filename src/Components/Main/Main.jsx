@@ -11,7 +11,7 @@ function Main ({data, category}) {
       <h1>{
         
         category === 'Cafes' ? 'Café 100% Arábigo' : 
-        category === 'Resposteria' ? 'Repostería' : 
+        category === 'Reposteria' ? 'Repostería' : 
         category
                     
         }</h1>
