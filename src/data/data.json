@@ -337,8 +337,8 @@
   },
   {
     "cat": "Comidas",
-    "desc": "Croissant PINO, lechuga, tomate, salmón, ensalada de col",
-    "ingredientes": "",
+    "desc": "Croissant PINO",
+    "ingredientes": "(lechuga, tomate, salmón, ensalada de col)",
     "price": "6,00 €",
     "img": ""
   },
