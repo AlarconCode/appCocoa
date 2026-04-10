@@ -402,124 +402,124 @@
     "cat": "Comidas",
     "desc": "Churro o Porra",
     "ingredientes": "",
-    "price": "2,50 €",
+    "price": "0,70 €",
     "img": ""
   },
   {
     "cat": "Comidas",
     "desc": "Bollería",
     "ingredientes": "",
-    "price": "0,70 €",
+    "price": "2,50 €",
     "img": ""
   },
   {
     "cat": "Comidas",
     "desc": "Pan",
     "ingredientes": "",
-    "price": "2,50 €",
+    "price": "1,50 €",
     "img": ""
   },
   {
     "cat": "Comidas",
     "desc": "Tortilla por encargo (mínimo 15huevos)",
     "ingredientes": "",
-    "price": "1,50 €",
-    "img": ""
-  },
-  {
-    "cat": "Bebidas",
-    "desc": "Botellín 2,00 €",
-    "ingredientes": "",
     "price": "20,00 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Tercio 3,50 €",
+    "desc": "Botellín",
     "ingredientes": "",
     "price": "2,00 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Refrescos 2,80 €",
+    "desc": "Tercio",
+    "ingredientes": "",
+    "price": "2,00 €",
+    "img": ""
+  },
+  {
+    "cat": "Bebidas",
+    "desc": "Refrescos",
     "ingredientes": "",
     "price": "2,80 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Agua con gas 2,50 €",
+    "desc": "Agua con gas",
     "ingredientes": "",
     "price": "2,50 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Vermut 3,00 €",
+    "desc": "Vermut",
     "ingredientes": "",
     "price": "3,00 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Tinto de verano 3,00 €",
+    "desc": "Tinto de verano",
     "ingredientes": "",
     "price": "3,00 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Botella de agua 1,50 €",
+    "desc": "Botella de agua",
     "ingredientes": "",
     "price": "1,50 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Batido de Chocolate 2,80 €",
+    "desc": "Batido de Chocolate",
     "ingredientes": "",
     "price": "2,80 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Vino Tinto o Blanco 2,50 €",
+    "desc": "Vino Tinto o Blanco",
     "ingredientes": "",
     "price": "2,50 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Copa de anís o soberano 2,50 €",
+    "desc": "Copa de anís o soberano",
     "ingredientes": "",
     "price": "2,50 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Copa Licor de Hierbas / Limonchelo 3,50 €",
+    "desc": "Copa Licor de Hierbas / Limonchelo",
     "ingredientes": "",
     "price": "3,50 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Chupito Licor de Hierbas / Limonchelo 2,00 €",
+    "desc": "Chupito Licor de Hierbas / Limonchelo",
     "ingredientes": "",
     "price": "2,00 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Combinado 6,00 €",
+    "desc": "Combinado",
     "ingredientes": "",
     "price": "6,00 €",
     "img": ""
   },
   {
     "cat": "Bebidas",
-    "desc": "Combinado Premium 7,00 €",
+    "desc": "Combinado Premium",
     "ingredientes": "",
     "price": "7,00 €",
     "img": ""
